@@ -1,0 +1,6 @@
+node_modules
+coverage
+lexgen2021
+examples/lexer-generator
+examples/project-lexer-generator
+egg-oop-parser-solution
